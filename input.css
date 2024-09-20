@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.arch {
+    clip-path: ellipse(100% 60% at 50% 40%)
+}
